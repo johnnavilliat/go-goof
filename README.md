@@ -1,5 +1,6 @@
 # Go Goof
 
+
 1. Open a terminal and clone the repository
 
     ```console
